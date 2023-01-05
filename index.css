@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:#D5E1EF ;
+    vertical-align: auto;
+}
+
+img{
+    border-radius: 10px;
+    width: 280px;
+
+}
+
+section{
+    color: rgb(87, 87, 87);
+    font-family: sans-serif;
+    margin-top: 60px;
+    width: 325px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
